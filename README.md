@@ -1,6 +1,6 @@
 # thread-sync-problems
 
-Laboratory excercises from Operating Systems cours at Faculty of Electrical Engineering and Computing,
+Laboratory exercises from Operating Systems course at Faculty of Electrical Engineering and Computing,
 University of Zagreb
 
 
